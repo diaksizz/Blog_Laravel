@@ -1,5 +1,5 @@
 # Blog_Laravel
-Laravel 7
+<p>Laravel 7</p>
 <b>Okta Aditya Pratama</b>
 <ul>
   <li>Login</li>
